@@ -1,6 +1,6 @@
 Contribution Guidelines
 Welcome Contributors!
-Thank you for considering contributing to the centralized repository. This document outlines the guidelines for contributing to the development of Shipping Rates and Calculations.
+Thank you for considering contributing to the centralized repository. This document outlines the guidelines for contributing to the development of Simple Interest.
 
 Code Style
 Please follow the coding style and conventions used in the existing codebase. This helps maintain consistency across the project.
